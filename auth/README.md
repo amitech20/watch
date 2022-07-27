@@ -38,7 +38,7 @@ When the credential is successfully verified during login, the request is authen
 
 # Setup
 
-Details for **[Setup](/auth-wiki-team7/)**
+Details for **[Setup](https://github.com/amitech20/watch/tree/main/auth/backend#setup)**
 
 ## To Contribute
 ### Frontend
